@@ -5,5 +5,5 @@ A Python code that check for RedAlerts (all Israel) from Oref API and send them 
 
 Requirements :
 * Python3
-* LGWebOSRemote from https://github.com/Itay-Sharoni/LGWebOSRemote
+* LGWebOSRemote from https://github.com/klattimer/LGWebOSRemote
 * Oref API accessible only from Israel IPs (other countries should use VPN/Proxy)
